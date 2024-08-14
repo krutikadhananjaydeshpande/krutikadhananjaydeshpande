@@ -1,7 +1,7 @@
 #  👋 Hi there! I'm Krutika. Welcome to my GitHub profile
 
 ## 👀 About Me
-I'm a passionate Data Analyst and Program Manager with a Master's in Business Analytics from California State University. With experience leading digital transformation initiatives and a background in the Indian tech industry, I bring a unique global perspective to data-driven decision making.
+I'm a passionate Data Analyst and Program Manager with a Master's in Business Analytics from California State University. With experience leading digital transformation initiatives and a background in the globally diverse tech industry, I bring a unique global perspective to data-driven decision making.
 
 **Pronouns:** She/Her
 
