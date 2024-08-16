@@ -10,7 +10,7 @@ I'm a passionate Data Analyst and Program Manager with a Master's in Business An
 ## 🚀 My Journey
 - Currently: Seeking full-time opportunities in Data Analytics and Program Management
 - 2022-2024: Completed Master's in Business Analytics, California State University, USA
-- 2017-2022: 5 years of professional experience in India, leading data-driven initiatives
+- 2017-2022: 6+ years of professional experience, leading data-driven initiatives
 
 ## 💼 What I'm Looking For
 I'm actively seeking roles in **Data Analytics**, **Business Intelligence**, **Technical Program Management**, and **Machine Learning**. Let's leverage data to drive innovation and business growth!
